@@ -1,0 +1,3 @@
+table { border-collapse: collapse; }
+table > tr, th { padding:10px; }
+.writeForm div{ color:red; font-size:8pt; font-weight:bold; }

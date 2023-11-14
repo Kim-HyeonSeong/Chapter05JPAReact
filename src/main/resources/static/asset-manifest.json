@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.957b3f62.css",
+    "main.js": "/static/js/main.6fdf0941.js",
+    "static/js/787.994511a4.chunk.js": "/static/js/787.994511a4.chunk.js",
+    "static/media/talon.jpeg": "/static/media/talon.bb689303dac3fb76efa0.jpeg",
+    "index.html": "/index.html",
+    "main.957b3f62.css.map": "/static/css/main.957b3f62.css.map",
+    "main.6fdf0941.js.map": "/static/js/main.6fdf0941.js.map",
+    "787.994511a4.chunk.js.map": "/static/js/787.994511a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.957b3f62.css",
+    "static/js/main.6fdf0941.js"
+  ]
+}
